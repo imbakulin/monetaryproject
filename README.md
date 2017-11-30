@@ -24,4 +24,5 @@ https://www.researchgate.net/profile/Francesco_Columba/publication/301775589_Mac
 * Comparison of SAVR and DSGE
 https://hal.archives-ouvertes.fr/hal-00732759/document
 
-Books in dropbox should also be considered.
+Books in Google Disk should also be considered.
+Pay attention to Wlash book.
